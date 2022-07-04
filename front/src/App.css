@@ -1,0 +1,17 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Macondo", cursive;
+  background-image: url("./template-3160023_1920.jpg");
+}
+.App {
+  display: flex;
+  height: 90vh;
+}
+.head {
+  text-align: center;
+  height: 10vh;
+  margin: 0;
+  line-height: 10vh;
+}
